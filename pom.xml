@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>test</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.26.101.171:8081/repository/test-rel/</url>
+	      <url>http://localhost:8081/repository/test-rel/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>test</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.26.101.171:8081/repository/test-snp/</url>
+	      <url>http://localhost:8081/repository/test-snp/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
