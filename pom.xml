@@ -24,7 +24,7 @@
 		<sonar.host.url>http://localhost:9000/</sonar.host.url>
                 <sonar.login>2dc2ddd925d1b803f13c5c51d42b5514bfd66d41</sonar.login>
 		<!--<sonar.password>admin</sonar.password>  -->
-              
+                <prepareForSonarQube>true</prepareForSonarQube>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
